@@ -1,0 +1,1 @@
+{"primary":{"Home":[],"About":[],"Services":[],"Projects":[],"Pages":[],"Shop":[],"FAQ":[],"Sub Menu":[],"Submenu 1":[],"Dropdown menu":[],"Submenu 2":[],"Blog":[],"Contact":[]},"demo_config":{"home":"Home","blog":"Blog","shop":"Shop","cart":"Cart","checkout":"Checkout","account":"My account"}}

@@ -1,0 +1,6 @@
+2022-02-25T13:55:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\assurance\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Package.php on line 130
+
+2022-02-25T13:55:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\assurance\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ReviewsByCategory.php on line 44
+
+2022-02-25T15:32:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\assurance\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\AbstractTermsRoute.php on line 153
+
