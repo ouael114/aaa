@@ -1,6 +1,6 @@
 <?php
 /**
- * Bootstrap file for setting the ABSPATH constant
+ * Bootstrap file for setting the ABSPATH constant azeaze
  * and loading the wp-config.php file. The wp-config.php
  * file will then load the wp-settings.php file, which
  * will then set up the WordPress environment.
